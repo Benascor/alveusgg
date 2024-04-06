@@ -173,6 +173,7 @@ const config = {
       );
     }),
   ],
+  darkMode: "selector",
 } satisfies Config;
 
 export default config;
